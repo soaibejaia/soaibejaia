@@ -6,7 +6,7 @@ Welcome to the **School of AI - ESTIN Béjaïa**, a vibrant community of AI enth
 🔹 **Location:** ESTIN Béjaïa, Algeria 📍  
 🔹 **Mission:** Empowering students with AI knowledge & hands-on experience  
 🔹 **Vision:** Fostering AI-driven innovation for a smarter future  
-🔹 **Motto:** *"Think Deeper 🧠, Do Better🤖"*  
+🔹 **Slogan:** *"Think Deeper 🧠, Do Better 🧑‍💻"*  
 
 ---
 ## 🌍 Connect With Us
@@ -16,6 +16,7 @@ Stay updated and engage with our community:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/soai_bejaia)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/school-of-ai-b%C3%A9jaia/posts/?feedView=all)  
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@soai_bejaia)  
+[![Linktree](https://img.shields.io/badge/Linktree-%23green.svg?style=for-the-badge&logo=Linktree&logoColor=white)](https://linktr.ee/schoolofai.bejaia)  
 📩 **Contact us via email:** [schoolofai@estin.dz](mailto:schoolofai@estin.dz)
 
 ---
