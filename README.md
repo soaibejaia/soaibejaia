@@ -12,11 +12,22 @@ Welcome to the **School of AI - ESTIN Béjaïa**, a vibrant community of AI enth
 ## 🌍 Connect With Us
 Stay updated and engage with our community:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100086557760208)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/soai_bejaia)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/school-of-ai-b%C3%A9jaia/posts/?feedView=all)  
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@soai_bejaia)  
-[![Linktree](https://img.shields.io/badge/Linktree-%23green.svg?style=for-the-badge&logo=Linktree&logoColor=white)](https://linktr.ee/schoolofai.bejaia)  
+<a href="https://www.facebook.com/profile.php?id=100086557760208" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="https://instagram.com/soai_bejaia" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://www.linkedin.com/company/school-of-ai-b%C3%A9jaia/posts/?feedView=all" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://tiktok.com/@soai_bejaia" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok"/>
+</a>
+<a href="https://linktr.ee/schoolofai.bejaia" target="_blank">
+  <img src="https://img.shields.io/badge/Linktree-%23green.svg?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
+</a>
+
 📩 **Contact us via email:** [schoolofai@estin.dz](mailto:schoolofai@estin.dz)
 
 ---
